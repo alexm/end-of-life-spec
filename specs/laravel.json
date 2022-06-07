@@ -1,0 +1,96 @@
+{
+  "project": "laravel",
+  "homepage": "https://laravel.com",
+  "end-of-life": [
+    {
+      "version": "6",
+      "notes": "https://laravel.com/docs/6.x/releases",
+      "released": "2020-09-03",
+      "long-term-support": true,
+      "bug-fixes-until": "2022-01-25",
+      "security-fixes-until": "2022-09-06",
+      "running-on": [
+        {
+          "project": "php",
+          "versions": [
+            "7.2",
+            "7.3",
+            "7.4",
+            "8.0"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "7",
+      "notes": "https://laravel.com/docs/7.x/releases",
+      "released": "2020-03-03",
+      "long-term-support": false,
+      "bug-fixes-until": "2020-10-06",
+      "security-fixes-until": "2021-03-03",
+      "running-on": [
+        {
+          "project": "php",
+          "versions": [
+            "7.2",
+            "7.3",
+            "7.4",
+            "8.0"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "8",
+      "notes": "https://laravel.com/docs/8.x/releases",
+      "released": "2020-09-08",
+      "long-term-support": false,
+      "bug-fixes-until": "2022-07-26",
+      "security-fixes-until": "2023-01-24",
+      "running-on": [
+        {
+          "project": "php",
+          "versions": [
+            "7.3",
+            "7.4",
+            "8.0",
+            "8.1"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "9",
+      "notes": "https://laravel.com/docs/9.x/releases",
+      "released": "2022-02-08",
+      "long-term-support": false,
+      "bug-fixes-until": "2023-08-08",
+      "security-fixes-until": "2024-02-08",
+      "running-on": [
+        {
+          "project": "php",
+          "versions": [
+            "8.0",
+            "8.1"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "10",
+      "notes": "https://laravel.com/docs/10.x/releases",
+      "released": "2023-02-07",
+      "long-term-support": false,
+      "bug-fixes-until": "2024-08-07",
+      "security-fixes-until": "2025-02-07",
+      "running-on": [
+        {
+          "project": "php",
+          "versions": [
+            "8.1"
+          ]
+        }
+      ]
+    }
+  ]
+}
